@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   },
 };
 
-export default function HomePage() {
+export default function Home() {
   return (
     <div className="font-sans min-h-screen flex flex-col">
       <Navbar />

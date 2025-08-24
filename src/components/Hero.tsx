@@ -6,21 +6,17 @@ import { motion } from "framer-motion";
 export default function Hero() {
   return (
     <section className="relative min-h-screen flex items-center justify-center bg-black text-white overflow-hidden">
-      {/* Background Image */}
       <Image
-        src="/hero.jpg" // <-- o'z rasmiingizni qo'ying (dinamik, kuchli sahna rasmi)
+        src="/hero.jpg"
         alt="Dance Studio"
         fill
         priority
         className="object-cover object-center opacity-40"
       />
 
-      {/* Gradient Overlay */}
       <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/40 to-black/90 z-0" />
 
-      {/* Content */}
       <div className="relative z-10 max-w-5xl mx-auto text-center px-6">
-        {/* Subheadline */}
         <motion.span
           initial={{ opacity: 0, y: -10 }}
           animate={{ opacity: 1, y: 0 }}
@@ -30,7 +26,6 @@ export default function Hero() {
           San’at. Ritm. Hayot.
         </motion.span>
 
-        {/* Main Title */}
         <motion.h1
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
@@ -40,7 +35,6 @@ export default function Hero() {
           Raqs bilan o‘zingni <br /> qayta kashf et
         </motion.h1>
 
-        {/* Description */}
         <motion.p
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
@@ -53,7 +47,6 @@ export default function Hero() {
           cheksiz ilhom manbai.
         </motion.p>
 
-        {/* CTA buttons */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -75,7 +68,6 @@ export default function Hero() {
         </motion.div>
       </div>
 
-      {/* Floating Elements (Premium Accent) */}
       <motion.div
         initial={{ opacity: 0, scale: 0.8 }}
         animate={{ opacity: 0.15, scale: 1 }}

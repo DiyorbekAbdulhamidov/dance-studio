@@ -15,7 +15,7 @@ export default function Footer() {
           {/* Logo + info */}
           <div>
             <h2 className="text-4xl font-extrabold tracking-wide text-transparent bg-clip-text bg-gradient-to-r from-pink-300 via-purple-200 to-pink-400 drop-shadow-[0_0_15px_#ff99ff]">
-              Dance Studio
+              Baxtem Dance Studio
             </h2>
             <p className="mt-4 text-sm text-pink-100 leading-relaxed drop-shadow-[0_0_5px_#ff99ff]">
               Biz bilan raqs san’atini o‘rganing. Professional ustozlar va zamonaviy sharoitlar sizni kutmoqda.
@@ -26,7 +26,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4 drop-shadow-[0_0_5px_#ffffff]">Navigatsiya</h3>
             <ul className="space-y-3">
-              {["Bosh sahifa", "Galereya", "Bog‘lanish", "Biz haqimizda"].map((item, idx) => (
+              {["About", "Courses", "Gallery", "Contact"].map((item, idx) => (
                 <li key={idx}>
                   <a
                     href={`#${item.toLowerCase().replace(/ /g, "")}`}

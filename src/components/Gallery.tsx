@@ -5,12 +5,12 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const images = [
-  "/gallery/1.jpg",
-  "/gallery/2.jpg",
-  "/gallery/3.jpg",
-  "/gallery/4.jpg",
-  "/gallery/5.jpg",
-  "/gallery/6.jpg",
+  "/studio.jpg",
+  "/studio2.jpg",
+  "/studio3.jpg",
+  "/studio4.jpg",
+  "/studio5.jpg",
+  "/studio6.jpg",
 ];
 
 export default function Gallery() {

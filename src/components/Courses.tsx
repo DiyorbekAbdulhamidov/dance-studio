@@ -7,25 +7,25 @@ const courses = [
     title: "Bolalar uchun raqs",
     description:
       "6 yoshdan 12 yoshgacha bo‘lgan bolalar uchun maxsus raqs mashg‘ulotlari. Raqs orqali ijodkorlik va ishonch rivojlanadi.",
-    image: "/courses/kids.jpg",
+    image: "/kids.jpg",
   },
   {
     title: "Zamonaviy raqs",
     description:
       "Hip-Hop, Jazz Funk va boshqa zamonaviy yo‘nalishlar. Yoshlar va kattalar uchun energiyaga boy mashg‘ulotlar.",
-    image: "/courses/modern.jpg",
+    image: "/modern.jpg",
   },
   {
     title: "Klassik raqs",
     description:
       "Balet va klassik raqs asoslari. Harakatlarda nafislik, intizom va mukammallikni shakllantiradi.",
-    image: "/courses/classic.jpg",
+    image: "/classic.jpg",
   },
   {
     title: "Katta yoshdagilar uchun",
     description:
       "Katta yoshdagi insonlar uchun raqs – sog‘liq va kayfiyatni yaxshilovchi ajoyib mashg‘ulot.",
-    image: "/courses/adults.jpg",
+    image: "/old.jpg",
   },
 ];
 

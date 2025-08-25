@@ -15,7 +15,7 @@ export default function Footer() {
           {/* Logo + info */}
           <div>
             <h2 className="text-4xl font-extrabold tracking-wide text-transparent bg-clip-text bg-gradient-to-r from-pink-300 via-purple-200 to-pink-400 drop-shadow-[0_0_15px_#ff99ff]">
-              Baxtem Dance Studio
+              Dono Dance Studio
             </h2>
             <p className="mt-4 text-sm text-pink-100 leading-relaxed drop-shadow-[0_0_5px_#ff99ff]">
               Biz bilan raqs san’atini o‘rganing. Professional ustozlar va zamonaviy sharoitlar sizni kutmoqda.

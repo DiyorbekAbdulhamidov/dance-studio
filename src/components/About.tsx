@@ -41,7 +41,7 @@ export default function About() {
             Biz <span className="bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-transparent">haqimizda</span>
           </h2>
           <p className="mt-6 text-lg text-gray-300 leading-relaxed">
-            <span className="font-semibold text-white">Baxtem Dance Studio</span> —
+            <span className="font-semibold text-white">Dono Dance Studio</span> —
             zamonaviy va klassik raqs san’atini uyg‘unlashtirgan premium studiya.
             Har bir mashg‘ulot sizning <span className="text-pink-400">iste’dodingizni</span> ochishga
             va <span className="text-purple-400">cheksiz energiya</span> berishga qaratilgan.

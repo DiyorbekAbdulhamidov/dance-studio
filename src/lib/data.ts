@@ -1,8 +1,8 @@
 export const studio = {
-  name: "Baxtem Dance Studio",
+  name: "Dono Dance Studio",
   phone: "+998 77 123 38 09",
-  telegram: "https://t.me/Baxtem_admin",
-  instagram: "https://instagram.com/baxtem_dance_studio",
+  telegram: "https://t.me/Dono_admin",
+  instagram: "https://instagram.com/Dono_dance_studio",
   address: "Toshkent, (manzilni shu yerga yozing)",
   hero: {
     headline: "Raqs bilan hayotingizga quvonch qo‘shing",

@@ -22,15 +22,15 @@ export default function Navbar() {
       animate={{ y: 0 }}
       transition={{ duration: 0.6 }}
       className={`fixed top-0 left-0 w-full z-50 transition-all ${scrolled
-          ? "backdrop-blur-lg bg-black/80 shadow-lg border-b border-white/10"
-          : "bg-transparent"
+        ? "backdrop-blur-lg bg-black/80 shadow-lg border-b border-white/10"
+        : "bg-transparent"
         }`}
     >
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="text-2xl font-extrabold tracking-tight">
           <span className="bg-gradient-to-r from-pink-500 via-purple-500 to-red-500 bg-clip-text text-transparent">
-            Baxtem
+            Dono
           </span>
         </Link>
 

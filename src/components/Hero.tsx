@@ -41,7 +41,7 @@ export default function Hero() {
           transition={{ delay: 0.8 }}
           className="mt-6 text-lg md:text-2xl text-gray-200 max-w-2xl mx-auto leading-relaxed"
         >
-          Bizning <span className="text-pink-400 font-semibold">Baxtem Dance Studio</span> –
+          Bizning <span className="text-pink-400 font-semibold">Dono Dance Studio</span> –
           bu shunchaki raqs emas. Bu sizning orzularingiz, ritmingiz va
           kelajagingizga qadam. Eng yaxshi ustozlar, eng zamonaviy mashg‘ulotlar va
           cheksiz ilhom manbai.

@@ -40,12 +40,12 @@ export default function Contact() {
           <div className="space-y-6">
             <div className="p-6 rounded-2xl bg-white/10 backdrop-blur-md border border-white/10 shadow-lg">
               <h3 className="text-2xl font-bold text-pink-400">Aloqa ma’lumotlari</h3>
-              <p className="text-gray-300 mt-3">📍 Toshkent, Chilonzor, 7-mavze</p>
+              <p className="text-gray-300 mt-3">📍 Toshkent, Yunusobod, 27</p>
               <p className="text-gray-300">
-                📞 <a href="tel:+998901234567" className="text-pink-400 hover:underline">+998 90 123 45 67</a>
+                📞 <a href="tel:+998901234567" className="text-pink-400 hover:underline">+998 88 121 73 73</a>
               </p>
               <p className="text-gray-300">
-                📧 <a href="mailto:info@dance.uz" className="text-pink-400 hover:underline">info@dance.uz</a>
+                📧 <a href="mailto:info@dance.uz" className="text-pink-400 hover:underline">dono-dance@gmail.com</a>
               </p>
 
               {/* Socials */}

@@ -86,7 +86,7 @@ export default function Contact() {
               ></iframe>
             </div>
           </div>
-
+          {/*  */}
           <form
             onSubmit={handleSubmit}
             className="bg-white/10 backdrop-blur-xl rounded-2xl shadow-2xl p-8 space-y-6 border border-white/10"

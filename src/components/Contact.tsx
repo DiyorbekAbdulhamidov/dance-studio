@@ -24,7 +24,6 @@ export default function Contact() {
       <div className="absolute inset-0 bg-[url('/bg-pattern.svg')] opacity-10"></div>
 
       <div className="container relative mx-auto px-6 md:px-12 lg:px-20">
-        {/* Title */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-extrabold bg-gradient-to-r from-pink-500 to-purple-400 bg-clip-text text-transparent">
             Biz bilan bog‘laning
